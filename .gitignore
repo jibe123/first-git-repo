@@ -2,3 +2,5 @@ config_file2.txt
 config_file.txt
 /config_dir
 /pycharm_files
+trash.txt
+.gitignore
